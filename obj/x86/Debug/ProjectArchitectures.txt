@@ -1,0 +1,1 @@
+C:\Projects_VS_Code\Toast_notification_UWP_C++\Toast_notification_UWP\Toast_notification_UWP.csproj;x86
